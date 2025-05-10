@@ -81,10 +81,7 @@ class Crawler:
             # Use a session for better performance with connection pooling
             session = requests.Session()
 
-            # Set cookies for sites that might require them
-            if 'instagram.com' in domain:
-                session.cookies.set('ig_did', '1234567890', domain='.instagram.com')
-                session.cookies.set('ig_nrcb', '1', domain='.instagram.com')
+            # No special cookies needed
 
             # Set a smaller chunk size for faster initial response
             response = session.get(
@@ -106,30 +103,8 @@ class Crawler:
                     break
 
             # If we got a very small response, it might be a redirect or anti-bot page
-            if len(content) < 500 and ('instagram.com' in domain or 'facebook.com' in domain):
-                logger.warning(f"Received very small response from {url}, trying alternative approach")
-
-                # Try an alternative approach - use a different URL format
-                if 'help.instagram.com' in url or 'www.instagram.com/help' in url:
-                    # Try the direct help center URL
-                    alt_url = 'https://help.instagram.com/581066165581870'  # Known Instagram help article
-                    logger.info(f"Trying alternative URL: {alt_url}")
-
-                    # Use a different session with different headers
-                    alt_session = requests.Session()
-                    alt_headers = {
-                        'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E148 Safari/604.1',
-                        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-                        'Accept-Language': 'en-US,en;q=0.5',
-                        'Referer': 'https://www.google.com/'
-                    }
-
-                    try:
-                        alt_response = alt_session.get(alt_url, headers=alt_headers, timeout=self.timeout)
-                        alt_response.raise_for_status()
-                        content = alt_response.text
-                    except Exception as e:
-                        logger.error(f"Alternative approach also failed: {e}")
+            if len(content) < 500:
+                logger.warning(f"Received very small response from {url}, this might be a redirect or anti-bot page")
 
             return content
         except requests.RequestException as e:
