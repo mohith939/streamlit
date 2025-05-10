@@ -17,12 +17,8 @@ st.set_page_config(
     layout="wide"
 )
 
-# App title and description
-st.title("Documentation Structure Extractor - JSON Only")
-st.markdown("""
-This application extracts structured module/submodule information from documentation websites and outputs JSON.
-Enter a URL below to get started.
-""")
+# Simple header
+st.markdown("## Documentation Structure Extractor")
 
 # URL input
 url = st.text_input("Enter a documentation website URL:", "")
@@ -94,37 +90,37 @@ if st.button("Extract Structure"):
                 for module in all_modules:
                     if not module.get("module"):
                         continue
-                        
+
                     # Get description from either field name
                     description = module.get("Description", "")
                     if not description:
                         description = module.get("description", "")
                     if not description:
                         description = "No description available"
-                        
+
                     # Get submodules from either field name
                     submodules = module.get("Submodules", {})
                     if not submodules:
                         submodules = module.get("submodules", {})
                     if not isinstance(submodules, dict):
                         submodules = {}
-                        
+
                     # Clean submodules
                     cleaned_submodules = {}
                     for name, desc in submodules.items():
                         if not name:
                             continue
                         cleaned_submodules[str(name)] = str(desc) if desc else "No description available"
-                        
+
                     # Create formatted module
                     formatted_module = {
                         "module": str(module.get("module", "")),
                         "Description": str(description),
                         "Submodules": cleaned_submodules
                     }
-                    
+
                     formatted_modules.append(formatted_module)
-                
+
                 # Create JSON directly
                 json_output = json.dumps(formatted_modules, indent=2)
 
@@ -135,18 +131,8 @@ if st.button("Extract Structure"):
                 progress_bar.progress(100)
                 status.text("Done!")
 
-                # Display results
-                st.subheader(f"JSON Output for {domain}")
-
-                # Display statistics
-                total_submodules = sum(len(module.get('Submodules', {})) for module in formatted_modules)
-                st.markdown(f"""
-                **Statistics:**
-                - Pages crawled: {len(pages)}
-                - Modules found: {len(formatted_modules)}
-                - Submodules found: {total_submodules}
-                - Total time: {total_time:.2f} seconds
-                """)
+                # Display the JSON output
+                st.markdown(f"### JSON Output")
 
                 # Download button for JSON
                 st.download_button(
@@ -157,5 +143,4 @@ if st.button("Extract Structure"):
                 )
 
                 # Display the JSON
-                st.subheader("JSON Output")
                 st.code(json_output, language="json")
