@@ -61,7 +61,7 @@ If you prefer using Docker:
 
 1. Start the Streamlit app:
    ```bash
-   streamlit run app_simple.py
+   streamlit run app.py
    ```
 
 2. Open your browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
@@ -74,7 +74,7 @@ If you prefer using Docker:
 
 5. Click "Extract Structure" to process the website
 
-6. View the results and download the JSON output if desired
+6. View the JSON output and download it if desired
 
 ### Command-line Interface
 
@@ -152,11 +152,13 @@ Pulse/
 │   ├── parser.py       # HTML parsing and module extraction
 │   ├── utils.py        # Utility functions
 │   └── __init__.py     # Package initialization
-├── app_simple.py       # Streamlit web interface
+├── app.py              # Streamlit web interface (JSON-only version)
 ├── docker-compose.yml  # Docker Compose configuration
 ├── Dockerfile          # Docker container configuration
 ├── module_extractor.py # Command-line tool
 ├── README.md           # Project documentation
+├── ARCHITECTURE.md     # Technical architecture document
+├── APPROACH.md         # Approach and assumptions document
 └── requirements.txt    # Python dependencies
 ```
 
