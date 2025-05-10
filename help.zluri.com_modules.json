@@ -1,0 +1,1727 @@
+[
+  {
+    "module": "Help Center",
+    "Description": "Explore our Help Center for quick answers, detailed guides, and troubleshooting tips\u2014all designed to help you get the most value out of Zluri and streamline your Identity Governance journey.",
+    "Submodules": {
+      "Getting Started": "New to Zluri? Start here to set up your account and configure your organization\u2019s settings",
+      "Application Management": "Discover, monitor, and manage all SaaS applications across your organization",
+      "User Management": "View and manage the users in your organization",
+      "Cost Management": "Track SaaS spending, manage contract renewals, and right-size licenses based on usage",
+      "Access Provisioning": "Automate employee onboarding and offboarding using no-code workflows",
+      "Access Requests": "Automate app access for employees with self-service requests and approval workflows",
+      "Access Reviews": "Learn how to stay audit-ready through fully automated access reviews",
+      "Integrations": "Step-by-step instructions to connect your existing apps and systems with Zluri",
+      "Workflows & Automations": "Learn how to set up and run no-code workflow automations to streamline IT operations",
+      "Settings": "Manage your account, organization, billing, and configure Zluri according to your preferences",
+      "Popular Resources": "Getting started with Zluri is quick and easy. Here's how",
+      "Onboarding": "Getting started with Zluri is quick and easy. Here's how",
+      "Google Workspace Integration": "Integrate Google Workspace with Zluri",
+      "Azure AD Integration": "Integrate Azure AD with Zluri",
+      "Recently Added": "Automatically assign licenses, and add new employees to groups",
+      "Onboarding Workflows": "Automatically assign licenses, and add new employees to groups",
+      "Zluri Integration SDK": "Integrate custom API endpoints with Zluri with our free, easy-to-use SDK",
+      "Slack Integration": "Integrate Slack with Zluri",
+      "Application Management Discover, monitor, and manage all SaaS applications across your organization": "Help topic in Help Center",
+      "User Management View and manage the users in your organization": "Help topic in Help Center",
+      "Access Provisioning Automate employee onboarding and offboarding using no-code workflows": "Help topic in Help Center",
+      "Access Requests Automate app access for employees with self-service requests and approval workflows": "Help topic in Help Center",
+      "Access Reviews Learn how to stay audit-ready through fully automated access reviews": "Help topic in Help Center",
+      "Integrations Step-by-step instructions to connect your existing apps and systems with Zluri": "Help topic in Help Center"
+    }
+  },
+  {
+    "module": "Featured Articles",
+    "Description": "Popular Resources Onboarding Getting started with Zluri is quick and easy. Here's how Google Workspace Integration Integrate Google Workspace with Zluri Azure AD Integration Integrate Azure AD with Zluri Recently Added Onboarding Workflows Automatically...",
+    "Submodules": {
+      "Popular Resources": "Getting started with Zluri is quick and easy. Here's how",
+      "Recently Added": "Automatically assign licenses, and add new employees to groups",
+      "Still have questions?": "No description available",
+      "Onboarding": "Getting started with Zluri is quick and easy. Here's how",
+      "Google Workspace Integration": "Integrate Google Workspace with Zluri",
+      "Azure AD Integration": "Integrate Azure AD with Zluri",
+      "Onboarding Workflows": "Automatically assign licenses, and add new employees to groups",
+      "Zluri Integration SDK": "Integrate custom API endpoints with Zluri with our free, easy-to-use SDK",
+      "Slack Integration": "Integrate Slack with Zluri",
+      "Application Management Discover, monitor, and manage all SaaS applications across your organization": "Help topic in Featured Articles",
+      "User Management View and manage the users in your organization": "Help topic in Featured Articles",
+      "Access Provisioning Automate employee onboarding and offboarding using no-code workflows": "Help topic in Featured Articles",
+      "Access Requests Automate app access for employees with self-service requests and approval workflows": "Help topic in Featured Articles",
+      "Access Reviews Learn how to stay audit-ready through fully automated access reviews": "Help topic in Featured Articles",
+      "Integrations Step-by-step instructions to connect your existing apps and systems with Zluri": "Help topic in Featured Articles"
+    }
+  },
+  {
+    "module": "Overview",
+    "Description": "You can use the Overview section to create a new workflow or use an existing playbook. The following categories are available in the Onboarding section of the Workflow module to provide information on current workflows and existing playbooks, user information and activity logs, etc:",
+    "Submodules": {
+      "Onboarding workflows": "You can use Onboarding workflows to Add a user, Assign license to a User, Add user to different groups for different applications when a new user is added to your organization.",
+      "Offboarding workflows": "You can use Offboarding workflows to Remove a user, Remove license from a User, Remove user from different groups for different applications when a user is leaving your organization."
+    }
+  },
+  {
+    "module": "Navigating the Integrations module",
+    "Description": "Use the Integrations module to discover and manage integrations. Key features include:",
+    "Submodules": {
+      "Integration cards": "No description available",
+      "Subsections": "No description available",
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Connecting specific integrations",
+    "Description": "Check out the articles in the Integrations section in the left sidebar for detailed steps on connecting specific integrations, troubleshooting issues, and managing integration workflows.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Sorting options",
+    "Description": "Sort integrations by name, status, or activity.",
+    "Submodules": {
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Search bar",
+    "Description": "Search for apps by name.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Connection options",
+    "Description": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Recommended",
+    "Description": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Connected",
+    "Description": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Connection requests",
+    "Description": "Monitor apps waiting for integration. See which requests need authorization or require resending.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Browse catalog": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access."
+    }
+  },
+  {
+    "module": "Browse catalog",
+    "Description": "Explore all supported integrations and find new apps to connect with Zluri. This option is available in both the left panel and the main banner for easy access.",
+    "Submodules": {
+      "Sorting options": "Sort integrations by name, status, or activity.",
+      "Search bar": "Search for apps by name.",
+      "App information": "Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs.",
+      "Connection options": "Click the Connect button to integrate apps directly. For apps marked Available On-Request, click Raise Request.",
+      "Recommended": "View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency.",
+      "Connected": "Check the list of apps you\u2019ve already integrated with Zluri for a quick overview of existing connections.",
+      "Connection requests": "Monitor apps waiting for integration. See which requests need authorization or require resending."
+    }
+  },
+  {
+    "module": "Visibility",
+    "Description": "No description available",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Visibility",
+      "Helps identify over/under-licensed situations": "Feature or setting in Visibility",
+      "Shows user engagement levels across apps": "Feature or setting in Visibility",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Visibility",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Visibility",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Visibility",
+      "Helps in accountability and governance": "Feature or setting in Visibility",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Visibility",
+      "Identifies unmanaged applications": "Feature or setting in Visibility",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Visibility",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Visibility",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Visibility",
+      "Tools for managing application access and compliance": "Feature or setting in Visibility",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Visibility",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Visibility",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Visibility",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Discovery",
+    "Description": "No description available",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Discovery",
+      "Helps identify over/under-licensed situations": "Feature or setting in Discovery",
+      "Shows user engagement levels across apps": "Feature or setting in Discovery",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Discovery",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Discovery",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Discovery",
+      "Helps in accountability and governance": "Feature or setting in Discovery",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Discovery",
+      "Identifies unmanaged applications": "Feature or setting in Discovery",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Discovery",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Discovery",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Discovery",
+      "Tools for managing application access and compliance": "Feature or setting in Discovery",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Discovery",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Discovery",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Discovery",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Shadow IT Management",
+    "Description": "No description available",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Shadow IT Management",
+      "Helps identify over/under-licensed situations": "Feature or setting in Shadow IT Management",
+      "Shows user engagement levels across apps": "Feature or setting in Shadow IT Management",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Shadow IT Management",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Shadow IT Management",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Shadow IT Management",
+      "Helps in accountability and governance": "Feature or setting in Shadow IT Management",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Shadow IT Management",
+      "Identifies unmanaged applications": "Feature or setting in Shadow IT Management",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Shadow IT Management",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Shadow IT Management",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Shadow IT Management",
+      "Tools for managing application access and compliance": "Feature or setting in Shadow IT Management",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Shadow IT Management",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Shadow IT Management",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Shadow IT Management",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Bulk update application data",
+    "Description": "Zluri lets you modify one or multiple apps' data such as App ID, owner, security review status, and more using custom CSVs. Here's how: Got questions? Feel free to submit a ticket or contact us directly at [email protected].",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Bulk update application data",
+      "Helps identify over/under-licensed situations": "Feature or setting in Bulk update application data",
+      "Shows user engagement levels across apps": "Feature or setting in Bulk update application data",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Bulk update application data",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Bulk update application data",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Bulk update application data",
+      "Helps in accountability and governance": "Feature or setting in Bulk update application data",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Bulk update application data",
+      "Identifies unmanaged applications": "Feature or setting in Bulk update application data",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Bulk update application data",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Bulk update application data",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Bulk update application data",
+      "Tools for managing application access and compliance": "Feature or setting in Bulk update application data",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Bulk update application data",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Bulk update application data",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Bulk update application data",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Comprehensive App Tracking",
+    "Description": "Monitors applications in the environment",
+    "Submodules": {
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Comprehensive App Tracking",
+      "Helps identify over/under-licensed situations": "Feature or setting in Comprehensive App Tracking",
+      "Shows user engagement levels across apps": "Feature or setting in Comprehensive App Tracking",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Comprehensive App Tracking",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Comprehensive App Tracking",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Comprehensive App Tracking",
+      "Helps in accountability and governance": "Feature or setting in Comprehensive App Tracking",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Comprehensive App Tracking",
+      "Identifies unmanaged applications": "Feature or setting in Comprehensive App Tracking",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Comprehensive App Tracking",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Comprehensive App Tracking",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Comprehensive App Tracking",
+      "Tools for managing application access and compliance": "Feature or setting in Comprehensive App Tracking",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Comprehensive App Tracking",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Comprehensive App Tracking",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Comprehensive App Tracking",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Spend Visibility",
+    "Description": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Spend Visibility",
+      "Helps identify over/under-licensed situations": "Feature or setting in Spend Visibility",
+      "Shows user engagement levels across apps": "Feature or setting in Spend Visibility",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Spend Visibility",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Spend Visibility",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Spend Visibility",
+      "Helps in accountability and governance": "Feature or setting in Spend Visibility",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Spend Visibility",
+      "Identifies unmanaged applications": "Feature or setting in Spend Visibility",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Spend Visibility",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Spend Visibility",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Spend Visibility",
+      "Tools for managing application access and compliance": "Feature or setting in Spend Visibility",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Spend Visibility",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Spend Visibility",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Spend Visibility",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Usage Analytics",
+    "Description": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Usage Analytics",
+      "Helps identify over/under-licensed situations": "Feature or setting in Usage Analytics",
+      "Shows user engagement levels across apps": "Feature or setting in Usage Analytics",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Usage Analytics",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Usage Analytics",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Usage Analytics",
+      "Helps in accountability and governance": "Feature or setting in Usage Analytics",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Usage Analytics",
+      "Identifies unmanaged applications": "Feature or setting in Usage Analytics",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Usage Analytics",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Usage Analytics",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Usage Analytics",
+      "Tools for managing application access and compliance": "Feature or setting in Usage Analytics",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Usage Analytics",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Usage Analytics",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Usage Analytics",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Multiple Sources Integration",
+    "Description": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Multiple Sources Integration",
+      "Helps identify over/under-licensed situations": "Feature or setting in Multiple Sources Integration",
+      "Shows user engagement levels across apps": "Feature or setting in Multiple Sources Integration",
+      "Shows various integration sources": "Feature or setting in Multiple Sources Integration",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Multiple Sources Integration",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Multiple Sources Integration",
+      "Helps in accountability and governance": "Feature or setting in Multiple Sources Integration",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Multiple Sources Integration",
+      "Identifies unmanaged applications": "Feature or setting in Multiple Sources Integration",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Multiple Sources Integration",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Multiple Sources Integration",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Multiple Sources Integration",
+      "Tools for managing application access and compliance": "Feature or setting in Multiple Sources Integration",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Multiple Sources Integration",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Multiple Sources Integration",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Multiple Sources Integration",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Ownership Tracking",
+    "Description": "Maps application owners Helps in accountability and governance",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Ownership Tracking",
+      "Helps identify over/under-licensed situations": "Feature or setting in Ownership Tracking",
+      "Shows user engagement levels across apps": "Feature or setting in Ownership Tracking",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Ownership Tracking",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Ownership Tracking",
+      "Maps application owners": "Feature or setting in Ownership Tracking",
+      "Helps in accountability and governance": "Feature or setting in Ownership Tracking",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Ownership Tracking",
+      "Identifies unmanaged applications": "Feature or setting in Ownership Tracking",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Ownership Tracking",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Ownership Tracking",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Ownership Tracking",
+      "Tools for managing application access and compliance": "Feature or setting in Ownership Tracking",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Ownership Tracking",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Ownership Tracking",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Ownership Tracking",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Application Categorization",
+    "Description": "Managed, Restricted, and Unmanaged",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Application Categorization",
+      "Helps identify over/under-licensed situations": "Feature or setting in Application Categorization",
+      "Shows user engagement levels across apps": "Feature or setting in Application Categorization",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Application Categorization",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Application Categorization",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Application Categorization",
+      "Helps in accountability and governance": "Feature or setting in Application Categorization",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Application Categorization",
+      "Identifies unmanaged applications": "Feature or setting in Application Categorization",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Application Categorization",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Application Categorization",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Application Categorization",
+      "Tools for managing application access and compliance": "Feature or setting in Application Categorization",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Application Categorization",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Application Categorization",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Application Categorization",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Risk Identification",
+    "Description": "Flags applications that need review Identifies unmanaged applications",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Risk Identification",
+      "Helps identify over/under-licensed situations": "Feature or setting in Risk Identification",
+      "Shows user engagement levels across apps": "Feature or setting in Risk Identification",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Risk Identification",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Risk Identification",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Risk Identification",
+      "Helps in accountability and governance": "Feature or setting in Risk Identification",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Flags applications that need review": "Feature or setting in Risk Identification",
+      "Identifies unmanaged applications": "Feature or setting in Risk Identification",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Risk Identification",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Risk Identification",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Risk Identification",
+      "Tools for managing application access and compliance": "Feature or setting in Risk Identification",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Risk Identification",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Risk Identification",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Risk Identification",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Application Status Tracking",
+    "Description": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Application Status Tracking",
+      "Helps identify over/under-licensed situations": "Feature or setting in Application Status Tracking",
+      "Shows user engagement levels across apps": "Feature or setting in Application Status Tracking",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Application Status Tracking",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Application Status Tracking",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Application Status Tracking",
+      "Helps in accountability and governance": "Feature or setting in Application Status Tracking",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Application Status Tracking",
+      "Identifies unmanaged applications": "Feature or setting in Application Status Tracking",
+      "Verified apps marked with checkmarks": "Feature or setting in Application Status Tracking",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Application Status Tracking",
+      "Governance Features": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+      "Ability to mark applications as restricted": "Feature or setting in Application Status Tracking",
+      "Tools for managing application access and compliance": "Feature or setting in Application Status Tracking",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Application Status Tracking",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Application Status Tracking",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Application Status Tracking",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Governance Features",
+    "Description": "Ability to mark applications as restricted Tools for managing application access and compliance Options to convert unmanaged apps into managed ones",
+    "Submodules": {
+      "Comprehensive App Tracking": "Monitors applications in the environment",
+      "Spend Visibility": "Shows exact spending for each application (e.g., $1.69M for Hibob HRIS)",
+      "Usage Analytics": "Tracks active user counts vs. licensed users Helps identify over/under-licensed situations Shows user engagement levels across apps",
+      "Tracks active user counts vs. licensed users": "Feature or setting in Governance Features",
+      "Helps identify over/under-licensed situations": "Feature or setting in Governance Features",
+      "Shows user engagement levels across apps": "Feature or setting in Governance Features",
+      "Multiple Sources Integration": "Shows various integration sources Integrates with SSO, financial systems, and direct app connections",
+      "Shows various integration sources": "Feature or setting in Governance Features",
+      "Integrates with SSO, financial systems, and direct app connections": "Feature or setting in Governance Features",
+      "Ownership Tracking": "Maps application owners Helps in accountability and governance",
+      "Maps application owners": "Feature or setting in Governance Features",
+      "Helps in accountability and governance": "Feature or setting in Governance Features",
+      "Application Categorization": "Managed, Restricted, and Unmanaged",
+      "Risk Identification": "Flags applications that need review Identifies unmanaged applications",
+      "Flags applications that need review": "Feature or setting in Governance Features",
+      "Identifies unmanaged applications": "Feature or setting in Governance Features",
+      "Application Status Tracking": "Verified apps marked with checkmarks Clear distinction between approved and unapproved apps",
+      "Verified apps marked with checkmarks": "Feature or setting in Governance Features",
+      "Clear distinction between approved and unapproved apps": "Feature or setting in Governance Features",
+      "Ability to mark applications as restricted": "Feature or setting in Governance Features",
+      "Tools for managing application access and compliance": "Feature or setting in Governance Features",
+      "Options to convert unmanaged apps into managed ones": "Feature or setting in Governance Features",
+      "Select the app(s) whose data you wish to modify.": "Feature or setting in Governance Features",
+      "Bulk Update Data": "Click the 3-dot menu on the top-right, then select .",
+      "This will open a sidebar to the right. Select the fields you wish to modify.": "Feature or setting in Governance Features",
+      "Download Editable CSV": "Select the type of CSV you wish to download (generic CSV or MS Excel-formatted CSV), then click .",
+      "Upload CSV": "Finally, modify the CSV and click the button to upload it."
+    }
+  },
+  {
+    "module": "Creating and running an onboarding workflow",
+    "Description": "No description available",
+    "Submodules": {
+      "Okta example": "Apps usually have multiple options that you can use to set up an account. In Okta\u2019s example below, you can pre-select a user type, add a phone number, enroll the user to Google\u2019s 2-factor auth, and a lot more. Explore the available actions in the left bar, or search for them using the search bar in the top-left. For this example, we\u2019ll assign a phone number to this user. Click the \u2795 Add button to the right of Update User\u2019s Phone Number entry, scroll to the bottom, and add the number. You can ...",
+      "New Workflow": "Click on .",
+      "Select the users to onboard.": "Feature or setting in Creating and running an onboarding workflow",
+      "Add": "Click \u2795 to the right of the app(s) that you wish to create an account for.",
+      "Create new workflows and playbooks": "Feature or setting in Creating and running an onboarding workflow",
+      "Run existing playbooks": "Feature or setting in Creating and running an onboarding workflow",
+      "View in progress workflows": "Feature or setting in Creating and running an onboarding workflow",
+      "View, run, and edit most used and recently edited playbooks": "Feature or setting in Creating and running an onboarding workflow"
+    }
+  },
+  {
+    "module": "\u2757\ufe0f",
+    "Description": "The actions marked with a red \u2757 exclamation mark are mandatory to fill out. If not, or if there are errors in the workflow, Zluri saves it as an Unpublished playbook.",
+    "Submodules": {
+      "Recommended apps and actions": "While creating an onboarding workflow, Zluri recommends a set of applications that your organization typically uses to onboard users. To access this, click the \u2795 icon below the Selected users section. Select from the recommended apps. Optionally, select Zluri actions to send a custom mail or a workflow summary to your and/or others\u2019 email addresses. Once you've completely set up the actions, you can either save it as a template or run the workflow.",
+      "New Workflow": "Click on .",
+      "Select the users to onboard.": "Feature or setting in \u2757\ufe0f",
+      "Add": "Click \u2795 to the right of the app(s) that you wish to create an account for.",
+      "Create new workflows and playbooks": "Feature or setting in \u2757\ufe0f",
+      "Run existing playbooks": "Feature or setting in \u2757\ufe0f",
+      "View in progress workflows": "Feature or setting in \u2757\ufe0f",
+      "View, run, and edit most used and recently edited playbooks": "Feature or setting in \u2757\ufe0f"
+    }
+  },
+  {
+    "module": "Managing onboarding workflows",
+    "Description": "No description available",
+    "Submodules": {
+      "Overview": "The Overview section lets you:",
+      "Drafts": "The Drafts section contains unsaved workflows. You can search for drafts, then run, edit, or delete them.",
+      "Playbooks": "The Playbooks section contains saved workflows. Here, you can search, run, create, edit, or delete playbooks.",
+      "Run Logs": "The Run Logs section is a list of workflows that you\u2019ve run. This includes completed, pending, and failed runs. You can search for workflows using the search bar, view logs, archive runs, or save them as playbooks. You can also filter workflows by name, ID, status, run date, and more.",
+      "Scheduled Runs": "The Scheduled Runs section contains workflows scheduled for later.",
+      "New Workflow": "Click on .",
+      "Select the users to onboard.": "Feature or setting in Managing onboarding workflows",
+      "Add": "Click \u2795 to the right of the app(s) that you wish to create an account for.",
+      "Create new workflows and playbooks": "Feature or setting in Managing onboarding workflows",
+      "Run existing playbooks": "Feature or setting in Managing onboarding workflows",
+      "View in progress workflows": "Feature or setting in Managing onboarding workflows",
+      "View, run, and edit most used and recently edited playbooks": "Feature or setting in Managing onboarding workflows"
+    }
+  },
+  {
+    "module": "User Overview",
+    "Description": "Clicking on a user will load their user page, which will display the following details. If the user clicks on the three dots next to the user name he will get a list of additional operations that can be performed on a user. Please refer to the below snapshot: By clicking on the Application Tab on the Users Overview screen, the user will land on the Applications page.",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in User Overview",
+      "User's email address": "Feature or setting in User Overview",
+      "User's Designation": "Feature or setting in User Overview",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in User Overview",
+      "Add user to a specific department": "Feature or setting in User Overview",
+      "Add Profile Image": "Feature or setting in User Overview",
+      "Reporting Manager": "Feature or setting in User Overview",
+      "Personal Email": "Feature or setting in User Overview",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in User Overview"
+    }
+  },
+  {
+    "module": "User Applications",
+    "Description": "The Applications tab lists the applications used by the user, usage, spend[YTD], cost[YTD], license, user application status, risk level, the last used date as sourced from the SSO integration, the specified SSO source & status of the application. You can select multiple applications and do the Bulk Edit option. Once you click Bulk Edit, you can select the Archive or Unarchive option which will be applied to the selected applications for that user.",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in User Applications",
+      "User's email address": "Feature or setting in User Applications",
+      "User's Designation": "Feature or setting in User Applications",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in User Applications",
+      "Add user to a specific department": "Feature or setting in User Applications",
+      "Add Profile Image": "Feature or setting in User Applications",
+      "Reporting Manager": "Feature or setting in User Applications",
+      "Personal Email": "Feature or setting in User Applications",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in User Applications"
+    }
+  },
+  {
+    "module": "Add a New User",
+    "Description": "Go to Zluri's home page >> Click on USERS. Click on \u201c+Add Button\u201d to add a new user. On the Add new user page. Enter the below mandate details. Other fields that can be entered are(not mandatory): Click on the down arrow near Add New Employee on top. One can select one option from Employee, Group, Service, or External user. By default, the Employee option is selected. Click on the Add User button on the bottom right. Here you go, you have added the user successfully!",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Add a New User",
+      "User's email address": "Feature or setting in Add a New User",
+      "User's Designation": "Feature or setting in Add a New User",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Add a New User",
+      "Add user to a specific department": "Feature or setting in Add a New User",
+      "Add Profile Image": "Feature or setting in Add a New User",
+      "Reporting Manager": "Feature or setting in Add a New User",
+      "Personal Email": "Feature or setting in Add a New User",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Add a New User"
+    }
+  },
+  {
+    "module": "Editing user attributes",
+    "Description": "To edit the user attributes, you can do this on the user landing page or the individual employee page. You can select users on the user landing page by ticking the checkboxes and Change the status of the user, Archive/Unarchive the user, Change Department of the user, Change User type, etc. This will change the attributes of all selected users. For example, if a user wants to change an employee status to Active, he needs to click on Bulk Edit >> Change Status >> Active. Once the details are sa...",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Editing user attributes",
+      "User's email address": "Feature or setting in Editing user attributes",
+      "User's Designation": "Feature or setting in Editing user attributes",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Editing user attributes",
+      "Add user to a specific department": "Feature or setting in Editing user attributes",
+      "Add Profile Image": "Feature or setting in Editing user attributes",
+      "Reporting Manager": "Feature or setting in Editing user attributes",
+      "Personal Email": "Feature or setting in Editing user attributes",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Editing user attributes"
+    }
+  },
+  {
+    "module": "Bulk update data",
+    "Description": "Zluri gives you the option to bulk update the metadata of each entity by directly uploading a CSV file. This article explains the step-by-step process of updating data in bulk. To update data in bulk, click on the above menu on the right side of the page. It will open a sidebar, as shown below. Select the fields you wish to update the data for. Download the editable CSV. Update the file with new data. & Upload it. We will notify you by email when the upload is complete. Similarly, you can up...",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Bulk update data",
+      "User's email address": "Feature or setting in Bulk update data",
+      "User's Designation": "Feature or setting in Bulk update data",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Bulk update data",
+      "Add user to a specific department": "Feature or setting in Bulk update data",
+      "Add Profile Image": "Feature or setting in Bulk update data",
+      "Reporting Manager": "Feature or setting in Bulk update data",
+      "Personal Email": "Feature or setting in Bulk update data",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Bulk update data"
+    }
+  },
+  {
+    "module": "Actively used apps",
+    "Description": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+    "Submodules": {
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Actively used apps",
+      "User's email address": "Feature or setting in Actively used apps",
+      "User's Designation": "Feature or setting in Actively used apps",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Actively used apps",
+      "Add user to a specific department": "Feature or setting in Actively used apps",
+      "Add Profile Image": "Feature or setting in Actively used apps",
+      "Reporting Manager": "Feature or setting in Actively used apps",
+      "Personal Email": "Feature or setting in Actively used apps",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Actively used apps"
+    }
+  },
+  {
+    "module": "Average monthly spend",
+    "Description": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Average monthly spend",
+      "User's email address": "Feature or setting in Average monthly spend",
+      "User's Designation": "Feature or setting in Average monthly spend",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Average monthly spend",
+      "Add user to a specific department": "Feature or setting in Average monthly spend",
+      "Add Profile Image": "Feature or setting in Average monthly spend",
+      "Reporting Manager": "Feature or setting in Average monthly spend",
+      "Personal Email": "Feature or setting in Average monthly spend",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Average monthly spend"
+    }
+  },
+  {
+    "module": "Monthly cost",
+    "Description": "Cost is based on the contracts and contract term",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Monthly cost",
+      "User's email address": "Feature or setting in Monthly cost",
+      "User's Designation": "Feature or setting in Monthly cost",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Monthly cost",
+      "Add user to a specific department": "Feature or setting in Monthly cost",
+      "Add Profile Image": "Feature or setting in Monthly cost",
+      "Reporting Manager": "Feature or setting in Monthly cost",
+      "Personal Email": "Feature or setting in Monthly cost",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Monthly cost"
+    }
+  },
+  {
+    "module": "Total apps",
+    "Description": "The user has used overall and the change in the number compared to the previous month.",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Added On": "Date on which the user is added to Zluri",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Total apps",
+      "User's email address": "Feature or setting in Total apps",
+      "User's Designation": "Feature or setting in Total apps",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Total apps",
+      "Add user to a specific department": "Feature or setting in Total apps",
+      "Add Profile Image": "Feature or setting in Total apps",
+      "Reporting Manager": "Feature or setting in Total apps",
+      "Personal Email": "Feature or setting in Total apps",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Total apps"
+    }
+  },
+  {
+    "module": "Added On",
+    "Description": "Date on which the user is added to Zluri",
+    "Submodules": {
+      "Actively used apps": "Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login data from the SSO source.",
+      "Average monthly spend": "associated with the user for all the apps he has used in the current financial year & change in spend compared to the previous month.",
+      "Monthly cost": "Cost is based on the contracts and contract term",
+      "Total apps": "The user has used overall and the change in the number compared to the previous month.",
+      "Average usage": "as sourced from the SSO integration & change in usage percentage from the previous month.",
+      "Status (Active/Inactive)": "No description available",
+      "Designation": "No description available",
+      "Department": "No description available",
+      "Onboarding Date": "The is the date for which the user is marked for onboarding",
+      "App-wise Spend": "shows spends done on each application for the user and the average monthly spend for the user for all apps combined. Also, shows the value of total spends aggregated for all the apps for a user and app-wise spend value.",
+      "App-wise usage": "shows usage for each application for the user and the average monthly usage of the user for all apps combined. It also shows the value of total usage percentage for all the apps for a user and app-wise usage percentage value.",
+      "Add Username": "Feature or setting in Added On",
+      "User's email address": "Feature or setting in Added On",
+      "User's Designation": "Feature or setting in Added On",
+      "User's status (Active/Inactive/Suspended)": "Feature or setting in Added On",
+      "Add user to a specific department": "Feature or setting in Added On",
+      "Add Profile Image": "Feature or setting in Added On",
+      "Reporting Manager": "Feature or setting in Added On",
+      "Personal Email": "Feature or setting in Added On",
+      "Tick the checkbox \u201cMark for Onboarding\u201d if needed": "Feature or setting in Added On"
+    }
+  },
+  {
+    "module": "Visibility and Control",
+    "Description": "Zluri visualizes all aspects of a company's SaaS stack, enabling organizations to monitor user access and spending effectively.",
+    "Submodules": {
+      "Shadow IT Management": "Helps identify unauthorized applications being used within the organization, allowing companies to mitigate risks associated with Shadow IT.",
+      "Cost Optimization": "Zluri provides insights into SaaS spending, helping organizations optimize costs and achieve a return on investment from day one.",
+      "Centralized Access Management": "Define access policies and automate user lifecycles, ensuring context-led visibility and control into who has access to what.",
+      "Self-service Access Requests": "With policy-driven workflows, auto-provision application access with Slack automation to unburden IT.",
+      "Automated Access Reviews": "Auto remediate over-privileged access and accelerate compliance with audit-ready reports."
+    }
+  },
+  {
+    "module": "Cost Optimization",
+    "Description": "Zluri provides insights into SaaS spending, helping organizations optimize costs and achieve a return on investment from day one.",
+    "Submodules": {
+      "Visibility and Control": "Zluri visualizes all aspects of a company's SaaS stack, enabling organizations to monitor user access and spending effectively.",
+      "Shadow IT Management": "Helps identify unauthorized applications being used within the organization, allowing companies to mitigate risks associated with Shadow IT.",
+      "Centralized Access Management": "Define access policies and automate user lifecycles, ensuring context-led visibility and control into who has access to what.",
+      "Self-service Access Requests": "With policy-driven workflows, auto-provision application access with Slack automation to unburden IT.",
+      "Automated Access Reviews": "Auto remediate over-privileged access and accelerate compliance with audit-ready reports."
+    }
+  },
+  {
+    "module": "Centralized Access Management",
+    "Description": "Define access policies and automate user lifecycles, ensuring context-led visibility and control into who has access to what.",
+    "Submodules": {
+      "Visibility and Control": "Zluri visualizes all aspects of a company's SaaS stack, enabling organizations to monitor user access and spending effectively.",
+      "Shadow IT Management": "Helps identify unauthorized applications being used within the organization, allowing companies to mitigate risks associated with Shadow IT.",
+      "Cost Optimization": "Zluri provides insights into SaaS spending, helping organizations optimize costs and achieve a return on investment from day one.",
+      "Self-service Access Requests": "With policy-driven workflows, auto-provision application access with Slack automation to unburden IT.",
+      "Automated Access Reviews": "Auto remediate over-privileged access and accelerate compliance with audit-ready reports."
+    }
+  },
+  {
+    "module": "Self-service Access Requests",
+    "Description": "With policy-driven workflows, auto-provision application access with Slack automation to unburden IT.",
+    "Submodules": {
+      "Visibility and Control": "Zluri visualizes all aspects of a company's SaaS stack, enabling organizations to monitor user access and spending effectively.",
+      "Shadow IT Management": "Helps identify unauthorized applications being used within the organization, allowing companies to mitigate risks associated with Shadow IT.",
+      "Cost Optimization": "Zluri provides insights into SaaS spending, helping organizations optimize costs and achieve a return on investment from day one.",
+      "Centralized Access Management": "Define access policies and automate user lifecycles, ensuring context-led visibility and control into who has access to what.",
+      "Automated Access Reviews": "Auto remediate over-privileged access and accelerate compliance with audit-ready reports."
+    }
+  },
+  {
+    "module": "Automated Access Reviews",
+    "Description": "Auto remediate over-privileged access and accelerate compliance with audit-ready reports.",
+    "Submodules": {
+      "Visibility and Control": "Zluri visualizes all aspects of a company's SaaS stack, enabling organizations to monitor user access and spending effectively.",
+      "Shadow IT Management": "Helps identify unauthorized applications being used within the organization, allowing companies to mitigate risks associated with Shadow IT.",
+      "Cost Optimization": "Zluri provides insights into SaaS spending, helping organizations optimize costs and achieve a return on investment from day one.",
+      "Centralized Access Management": "Define access policies and automate user lifecycles, ensuring context-led visibility and control into who has access to what.",
+      "Self-service Access Requests": "With policy-driven workflows, auto-provision application access with Slack automation to unburden IT."
+    }
+  },
+  {
+    "module": "Access Review Roles and Due Dates",
+    "Description": "No description available",
+    "Submodules": {
+      "Roles": "No description available",
+      "Due Dates": "No description available",
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Access Review Roles and Due Dates",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Access Review Roles and Due Dates",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Access Review Roles and Due Dates",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Access Review Roles and Due Dates",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Access Review Roles and Due Dates",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Access Review Roles and Due Dates",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Certification Name": "Feature or setting in Access Review Roles and Due Dates",
+      "Description (optional)": "Feature or setting in Access Review Roles and Due Dates",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Access Review Roles and Due Dates",
+      "Upon adding the applications, click Next.": "Feature or setting in Access Review Roles and Due Dates",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Access Review Roles and Due Dates",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Access Review Roles and Due Dates",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Access Review Roles and Due Dates",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Access Review Roles and Due Dates",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Access Review Roles and Due Dates",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Access Review Roles and Due Dates",
+      "Reviewers cannot review their own access.": "Feature or setting in Access Review Roles and Due Dates",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Access Review Roles and Due Dates",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Prerequisites",
+    "Description": "Before initiating access reviews, ensure the following:",
+    "Submodules": {
+      "Creating a Deprovisioning Playbook": "Note: Next, a pop-up window will appear, displaying all available de-provisioning actions. Note:",
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Prerequisites",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Prerequisites",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Prerequisites",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Prerequisites",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Prerequisites",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Prerequisites",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Prerequisites",
+      "Certification Name": "Feature or setting in Prerequisites",
+      "Description (optional)": "Feature or setting in Prerequisites",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Prerequisites",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Prerequisites",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Prerequisites",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Prerequisites",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Prerequisites",
+      "Upon adding the applications, click Next.": "Feature or setting in Prerequisites",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Prerequisites",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Prerequisites",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Prerequisites",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Prerequisites",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Prerequisites",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Prerequisites",
+      "Reviewers cannot review their own access.": "Feature or setting in Prerequisites",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Prerequisites",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Access Review Process",
+    "Description": "No description available",
+    "Submodules": {
+      "Creating a Certification": "Note: Note: The automated reminders will be sent 48 hours before the due dates to the associated users.",
+      "Reviewing a Certification": "Reviewers can access ongoing certifications and take actions on user access (approve, modify, revoke). Note: The reviewer and the certification owner can approve, remove or modify access by clicking on the actions icon for the users. Note:",
+      "Conclude Review": "Note: App playbooks configured earlier will run automatically based on review actions.",
+      "Complete Certification": "Note:",
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Access Review Process",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Access Review Process",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Access Review Process",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Access Review Process",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Access Review Process",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Access Review Process",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Access Review Process",
+      "Certification Name": "Feature or setting in Access Review Process",
+      "Description (optional)": "Feature or setting in Access Review Process",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Access Review Process",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Access Review Process",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Access Review Process",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Access Review Process",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Access Review Process",
+      "Upon adding the applications, click Next.": "Feature or setting in Access Review Process",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Access Review Process",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Access Review Process",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Access Review Process",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Access Review Process",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Access Review Process",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Access Review Process",
+      "Reviewers cannot review their own access.": "Feature or setting in Access Review Process",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Access Review Process",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Additional Functionality",
+    "Description": "No description available",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Additional Functionality",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Additional Functionality",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Additional Functionality",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Additional Functionality",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Additional Functionality",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Additional Functionality",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Additional Functionality",
+      "Certification Name": "Feature or setting in Additional Functionality",
+      "Description (optional)": "Feature or setting in Additional Functionality",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Additional Functionality",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Additional Functionality",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Additional Functionality",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Additional Functionality",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Additional Functionality",
+      "Upon adding the applications, click Next.": "Feature or setting in Additional Functionality",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Additional Functionality",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Additional Functionality",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Additional Functionality",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Additional Functionality",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Additional Functionality",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Additional Functionality",
+      "Reviewers cannot review their own access.": "Feature or setting in Additional Functionality",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Additional Functionality",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Primary Reviewer",
+    "Description": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+    "Submodules": {
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Primary Reviewer",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Primary Reviewer",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Primary Reviewer",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Primary Reviewer",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Primary Reviewer",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Primary Reviewer",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Primary Reviewer",
+      "Certification Name": "Feature or setting in Primary Reviewer",
+      "Description (optional)": "Feature or setting in Primary Reviewer",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Primary Reviewer",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Primary Reviewer",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Primary Reviewer",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Primary Reviewer",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Primary Reviewer",
+      "Upon adding the applications, click Next.": "Feature or setting in Primary Reviewer",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Primary Reviewer",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Primary Reviewer",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Primary Reviewer",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Primary Reviewer",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Primary Reviewer",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Primary Reviewer",
+      "Reviewers cannot review their own access.": "Feature or setting in Primary Reviewer",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Primary Reviewer",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Fallback Reviewer",
+    "Description": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Certification Owner": "Feature or setting in Fallback Reviewer",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Fallback Reviewer",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Fallback Reviewer",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Fallback Reviewer",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Fallback Reviewer",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Fallback Reviewer",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Fallback Reviewer",
+      "Certification Name": "Feature or setting in Fallback Reviewer",
+      "Description (optional)": "Feature or setting in Fallback Reviewer",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Fallback Reviewer",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Fallback Reviewer",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Fallback Reviewer",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Fallback Reviewer",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Fallback Reviewer",
+      "Upon adding the applications, click Next.": "Feature or setting in Fallback Reviewer",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Fallback Reviewer",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Fallback Reviewer",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Fallback Reviewer",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Fallback Reviewer",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Fallback Reviewer",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Fallback Reviewer",
+      "Reviewers cannot review their own access.": "Feature or setting in Fallback Reviewer",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Fallback Reviewer",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Certification Owner",
+    "Description": "Validates access reviews, ensures completion of the review process and oversees actions taken based on reviews.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Certification Owner",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Certification Owner",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Certification Owner",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Certification Owner",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Certification Owner",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Certification Owner",
+      "Certification Name": "Feature or setting in Certification Owner",
+      "Description (optional)": "Feature or setting in Certification Owner",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Certification Owner",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Certification Owner",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Certification Owner",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Certification Owner",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Certification Owner",
+      "Upon adding the applications, click Next.": "Feature or setting in Certification Owner",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Certification Owner",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Certification Owner",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Certification Owner",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Certification Owner",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Certification Owner",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Certification Owner",
+      "Reviewers cannot review their own access.": "Feature or setting in Certification Owner",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Certification Owner",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Review Start Date",
+    "Description": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Review Start Date",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Review Start Date",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Review Start Date",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Review Start Date",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Review Start Date",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Review Start Date",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Review Start Date",
+      "Certification Name": "Feature or setting in Review Start Date",
+      "Description (optional)": "Feature or setting in Review Start Date",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Review Start Date",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Review Start Date",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Review Start Date",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Review Start Date",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Review Start Date",
+      "Upon adding the applications, click Next.": "Feature or setting in Review Start Date",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Review Start Date",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Review Start Date",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Review Start Date",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Review Start Date",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Review Start Date",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Review Start Date",
+      "Reviewers cannot review their own access.": "Feature or setting in Review Start Date",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Review Start Date",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Review End Date",
+    "Description": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Review End Date",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Review End Date",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Review End Date",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Review End Date",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Review End Date",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Review End Date",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Review End Date",
+      "Certification Name": "Feature or setting in Review End Date",
+      "Description (optional)": "Feature or setting in Review End Date",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Review End Date",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Review End Date",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Review End Date",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Review End Date",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Review End Date",
+      "Upon adding the applications, click Next.": "Feature or setting in Review End Date",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Review End Date",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Review End Date",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Review End Date",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Review End Date",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Review End Date",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Review End Date",
+      "Reviewers cannot review their own access.": "Feature or setting in Review End Date",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Review End Date",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Remediation End Date",
+    "Description": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Remediation End Date",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Remediation End Date",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Remediation End Date",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Remediation End Date",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Remediation End Date",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Remediation End Date",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Remediation End Date",
+      "Certification Name": "Feature or setting in Remediation End Date",
+      "Description (optional)": "Feature or setting in Remediation End Date",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Remediation End Date",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Remediation End Date",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Remediation End Date",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Remediation End Date",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Remediation End Date",
+      "Upon adding the applications, click Next.": "Feature or setting in Remediation End Date",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Remediation End Date",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Remediation End Date",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Remediation End Date",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Remediation End Date",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Remediation End Date",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Remediation End Date",
+      "Reviewers cannot review their own access.": "Feature or setting in Remediation End Date",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Remediation End Date",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Notifications",
+    "Description": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Notifications",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Notifications",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Notifications",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Notifications",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Notifications",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Notifications",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Notifications",
+      "Certification Name": "Feature or setting in Notifications",
+      "Description (optional)": "Feature or setting in Notifications",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Notifications",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Notifications",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Notifications",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Notifications",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Notifications",
+      "Upon adding the applications, click Next.": "Feature or setting in Notifications",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Notifications",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Notifications",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Notifications",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Notifications",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Notifications",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Notifications",
+      "Reviewers cannot review their own access.": "Feature or setting in Notifications",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Notifications",
+      "Cloning Campaign": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Cloning Campaign",
+    "Description": "Clone previous certifications to reuse configurations for similar reviews from Certification dashboard pages from Ongoing or Completed tabs.",
+    "Submodules": {
+      "Primary Reviewer": "Responsible for reviewing access certifications, verifying, and taking actions such as approving, rejecting, or modifying access.",
+      "Fallback Reviewer": "Assigned as the reviewer if the primary reviewer is unavailable or not correctly configured.",
+      "Certification Owner": "Feature or setting in Cloning Campaign",
+      "Review Start Date": "The Certification can be viewed in two sections based on the Start date: Ongoing Certifications and Upcoming Certifications.",
+      "Review End Date": "Reviewers with pending reviews will receive alerts, along with the certification owner.",
+      "Remediation End Date": "The certification owner will be notified to finalize any pending remediation actions and tasks.",
+      "Navigate to the desired application on Zluri.": "Feature or setting in Cloning Campaign",
+      "Navigate to Automation > Deprovisioning tab and click Add to create a new playbook.": "Feature or setting in Cloning Campaign",
+      "Add de-provisioning actions, ensuring integrations are connected.": "Feature or setting in Cloning Campaign",
+      "Choose a template, add details, and save changes to publish the playbook.": "Feature or setting in Cloning Campaign",
+      "Navigate to the Access Review tab and click Create New Certification.": "Feature or setting in Cloning Campaign",
+      "Provide the following Certification Details and click Next.": "Feature or setting in Cloning Campaign",
+      "Certification Name": "Feature or setting in Cloning Campaign",
+      "Description (optional)": "Feature or setting in Cloning Campaign",
+      "Click Add Application to select Applications to include, and click Next.": "Feature or setting in Cloning Campaign",
+      "Specify Reviewers (Primary and Fallback) and click Next.": "Feature or setting in Cloning Campaign",
+      "Choose Users for review using relevant filters and click Next.": "Feature or setting in Cloning Campaign",
+      "Select Data Columns for reviewer visibility and reference and click Next.": "Feature or setting in Cloning Campaign",
+      "Users can modify or delete the added application by selecting the edit or delete icon.": "Feature or setting in Cloning Campaign",
+      "Upon adding the applications, click Next.": "Feature or setting in Cloning Campaign",
+      "Specify the Review Start Date and End Date.": "Feature or setting in Cloning Campaign",
+      "Specify the Remediation End Data and click Create Certification.": "Feature or setting in Cloning Campaign",
+      "Navigate to the Access Reviews > Ongoing tab to view the open certifications list.": "Feature or setting in Cloning Campaign",
+      "Find and click your certification name to open its dashboard page.": "Feature or setting in Cloning Campaign",
+      "Click on the application name to view review details in a sidesheet.": "Feature or setting in Cloning Campaign",
+      "Review user details and take actions (approve, remove, modify) as needed.": "Feature or setting in Cloning Campaign",
+      "Reviewers cannot review their own access.": "Feature or setting in Cloning Campaign",
+      "A detailed PDF report is generated and sent to the certification owner.": "Feature or setting in Cloning Campaign",
+      "Notifications": "Automated notifications are sent to reviewers for pending reviews and upcoming deadlines.",
+      "Show progress by reviewers": "The certification owner can now see the progress for each reviewer assigned to an access review campaign and send reminders to specific reviewers or all reviewers who have pending reviews to complete.",
+      "Employee View": "Employees (app users) can view and take action on certifications assigned to them as reviewers."
+    }
+  },
+  {
+    "module": "Automation rules",
+    "Description": "Admins can set up automation rules for license approvals with these five sections:",
+    "Submodules": {
+      "1. Request type": "Specify if the request is for an existing or new app.",
+      "2. Conditions": "Define approval workflows with conditions like designation, account type, or department.",
+      "3. Actions": "Set actions to auto-approve, reject, or route requests. Additionally, customize messages for auto-rejections.",
+      "4. Approvers": "Assign roles (e.g., IT admin, app owner, department head) or individuals to review access requests. The former is useful in scenarios when each request needs to be approved by, say, the user\u2019s reporting manager or department head before it moves on to a different approver.",
+      "5. Provisioning and deprovisioning": "Automate or manually configure access provisioning and deprovisioning tasks. Assign a task owner to grant access after approval or revoke it when the duration ends. You can also automate provisioning and deprovisioning by creating automation rules and linking app playbooks upon request approval."
+    }
+  },
+  {
+    "module": "Raise a request",
+    "Description": "Employees can request licenses or applications directly from Zluri\u2019s dashboard. Alternatively, use Zluri's Slack bot.",
+    "Submodules": {}
+  },
+  {
+    "module": "Requests view",
+    "Description": "View all requests and their statuses in one place. Employees can track or create requests.",
+    "Submodules": {}
+  },
+  {
+    "module": "Approval flow",
+    "Description": "Access requests follow a sequential approval process. Admins can override approvals and rejections, and update approvers. Zluri sends notifications via email (and optionally, Slack). Admins can approve the request directly on Slack or open the app to see more details.",
+    "Submodules": {}
+  },
+  {
+    "module": "Admin Actions",
+    "Description": "Admins can approve or reject requests on behalf of approvers. Rejections at any stage cancel the request, while overrides allow further processing. See the Admin Actions documentation to learn more.",
+    "Submodules": {
+      "Admin Actions documentation": "Feature mentioned in Admin Actions documentation"
+    }
+  },
+  {
+    "module": "Add or update approvers",
+    "Description": "Admins can add, remove, replace, or reorder approvers during the process. All stakeholders receive notifications. Admins can also assign a different approver for specific requests.",
+    "Submodules": {}
+  },
+  {
+    "module": "Role-based approvers",
+    "Description": "Assign approvers based on roles set in automation rules.",
+    "Submodules": {}
+  },
+  {
+    "module": "Provisioning and deprovisioning",
+    "Description": "Provisioning actions grant access, while deprovisioning actions (optional) revoke it after a set period. Admins can track both actions in the request overview. For time-bound requests without a deprovisioning rule, admins can configure one for that request.",
+    "Submodules": {}
+  },
+  {
+    "module": "Changelog",
+    "Description": "The changelog tracks request updates like approval status, duration changes, and admin comments.",
+    "Submodules": {}
+  },
+  {
+    "module": "Approver\u2019s dashboard",
+    "Description": "Approvers can view and manage all pending requests from a central dashboard.",
+    "Submodules": {}
+  },
+  {
+    "module": "Access requests via Slack",
+    "Description": "Zluri's Slack bot lets you raise and approve access requests. To learn more, see this document. Got questions? Feel free to submit a ticket or contact us directly at [email protected].",
+    "Submodules": {}
+  },
+  {
+    "module": "Unrecognised Transactions",
+    "Description": "These are the transactions unrelated to SaaS, or Zluri has not been able to recognise from the financial integrations and has not mapped to any application.",
+    "Submodules": {
+      "Recognised Transactions": "These are the transactions which Zluri has recognised from the financial integrations and has mapped to an application and are SaaS related. For mapping the transaction, we use the Transaction Description. If the Transaction Description matches the application name, Zluri maps the transaction to that application.",
+      "Archived Transactions": "These are the transactions which are non-SaaS related. Also, any other transaction that customers don\u2019t want to be included can be archived. Customers can move these types of transactions to Archive so that their data is not visible on the dashboard.",
+      "Payment Methods": "Customers can add payment methods like Credit cards, Bank Accounts and other Payment Options on this page. Zluri sends notifications to customers if any payment method is nearing its expiry date.",
+      "Uploads": "The customer can upload the transaction data as a CSV file which needs to have data in a specific format to upload the data."
+    }
+  },
+  {
+    "module": "Uploads",
+    "Description": "The customer can upload the transaction data as a CSV file which needs to have data in a specific format to upload the data.",
+    "Submodules": {
+      "Recognised Transactions": "These are the transactions which Zluri has recognised from the financial integrations and has mapped to an application and are SaaS related. For mapping the transaction, we use the Transaction Description. If the Transaction Description matches the application name, Zluri maps the transaction to that application.",
+      "Unrecognised Transactions": "These are the transactions unrelated to SaaS, or Zluri has not been able to recognise from the financial integrations and has not mapped to any application.",
+      "Archived Transactions": "These are the transactions which are non-SaaS related. Also, any other transaction that customers don\u2019t want to be included can be archived. Customers can move these types of transactions to Archive so that their data is not visible on the dashboard.",
+      "Payment Methods": "Customers can add payment methods like Credit cards, Bank Accounts and other Payment Options on this page. Zluri sends notifications to customers if any payment method is nearing its expiry date."
+    }
+  },
+  {
+    "module": "Account",
+    "Description": "Use this section to change your name, email address, phone number, and profile picture. You can also enable two-factor authentication or reset your password.",
+    "Submodules": {
+      "Settings": "Feature mentioned in Account documentation",
+      "this link": "Feature mentioned in Account documentation"
+    }
+  },
+  {
+    "module": "Your Organization",
+    "Description": "Modify details such as Payment owner and IT owner. To update company name, financial year beginning month, and/or currency, please reach out to our support team.",
+    "Submodules": {
+      "Click here to learn more": "Feature mentioned in Your Organization documentation",
+      "Click here": "Feature mentioned in Your Organization documentation"
+    }
+  },
+  {
+    "module": "Directory Management",
+    "Description": "Configure the primary sources from which Zluri can fetch data for different directory information along with any additional settings required. You can also select the primary source for various data points in the application. If Zluri fetches the same data from multiple sources, it will display the data in the platform based on these data points from the primary source. This tab also lists all the trusted domains Zluri has identified from your organization's data. Domains of the organization ar...",
+    "Submodules": {}
+  },
+  {
+    "module": "App Catalog",
+    "Description": "The app catalog lets employees discover and request licenses for all SaaS applications used in your organization. This section lets you configure every aspect of the app catalog, including Authorization Levels and Application Metadata. You can also manage branding and theming, including company logo, favicon, and color palette.",
+    "Submodules": {}
+  },
+  {
+    "module": "Administration",
+    "Description": "This section lists all the members that currently have access to your workspace, their email-ids, permission levels, and their last login details. You can also reset passwords or add/remove administrators. See our administration document to learn more.",
+    "Submodules": {
+      "administration document": "Feature mentioned in Administration documentation"
+    }
+  },
+  {
+    "module": "SSO",
+    "Description": "Configure the SAML/SSO methods for users in your organization. Click here to learn more about setting up SSO with Zluri.",
+    "Submodules": {
+      "reach out to our support team": "Feature mentioned in SSO documentation",
+      "Click here to learn more": "Feature mentioned in SSO documentation"
+    }
+  },
+  {
+    "module": "Custom Fields",
+    "Description": "You can add custom fields to Applications, Users, Departments & Transactions to add any additional information you would like to store regarding these entities. The added custom field will appear in the respective entity's overview screen.",
+    "Submodules": {}
+  },
+  {
+    "module": "Scheduled Exports",
+    "Description": "This tab lists all the scheduled data exports. You can also filter report types using the Apply Filter feature on the top-right.",
+    "Submodules": {}
+  },
+  {
+    "module": "Custom Apps",
+    "Description": "Custom Apps are applications that you've added yourself or that we've identified via integrations, but aren't listed in our database.",
+    "Submodules": {}
+  },
+  {
+    "module": "Billing",
+    "Description": "Upgrade your plan by contacting us through chat, mail, or phone.",
+    "Submodules": {}
+  },
+  {
+    "module": "Workflow Settings",
+    "Description": "Customize workflows globally for your organization. Click here to learn more about workflows.",
+    "Submodules": {}
+  },
+  {
+    "module": "\ud83e\udd1d Zluri + Slack",
+    "Description": "Zluri lets you discover which users have Slack accounts, how frequently they use them, and optimize spendings based on this data. You can also create and automate onboarding and offboarding workflows for team members, and automatically assign users to specific groups depending on their profile.",
+    "Submodules": {}
+  },
+  {
+    "module": "\ud83d\udd87\ufe0f Integration",
+    "Description": "Connecting Slack to Zluri is quick and painless. Check out our step-by-step instructions.",
+    "Submodules": {}
+  },
+  {
+    "module": "\ud83d\udc1e Troubleshooting",
+    "Description": "Problems connecting? Find solutions to most common integration issues in our troubleshooting document. Got questions? Feel free to submit a ticket or contact us directly at [email protected].",
+    "Submodules": {}
+  },
+  {
+    "module": "\ud83e\udd1d Zluri + Google Workspace",
+    "Description": "Zluri lets you discover which users have Google Workspace accounts, how frequently they use them, third-party apps connected to accounts, and detailed security analysis of every application. It also helps optimize spendings based on this data. You can also create and automate onboarding and offboarding workflows for team members, and automatically assign users to specific groups and/or projects depending on their profile.",
+    "Submodules": {}
+  },
+  {
+    "module": "\ud83d\udcdd Sign up for a free trial",
+    "Description": "That's it! Our representative will reach out to you as soon as possible and guide you through the process.",
+    "Submodules": {
+      "Sign up": "Go to the page and register for a free trial using your company email.",
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "\ud83c\udfe2 Add organization details",
+    "Description": "After signing up, log in with your email and password, then enter organization information:",
+    "Submodules": {
+      "Sign up": "Go to the page and register for a free trial using your company email.",
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "\ud83d\udea7",
+    "Description": "You might be asked to enter an Organization Slug in addition to your email and password. This happens if you have multiple Zluri accounts associated with the same email address. If you don't have access to this code (or wish to change it), please contact your designated Customer Success Manager.",
+    "Submodules": {
+      "Sign up": "Go to the page and register for a free trial using your company email.",
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "\ud83d\udd87\ufe0f Connect integrations",
+    "Description": "To get the most out of Zluri, we recommend connecting as many integrations as possible. Start with these key integrations:",
+    "Submodules": {
+      "1. SSO (Single Sign-On)": "Connect your SSO provider. For most organizations this is Google Workspace, Azure AD, Okta, OneLogin, and/or JumpCloud. You can also import a custom CSV. The SSO provider will be the primary source of your organization's data. This includes departments, domains, applications the employees use, sign-in/sign-out activity, and detailed security analysis of every connected application. It is also the most important integration to discover shadow IT and optimize spendings.",
+      "2. Accounting/finance software": "Keep track of expenses and transactions by integrating accounting software such as Intuit Quickbooks, FreshBooks, or Brex. You can also import a custom CSV.",
+      "3. HRMS (Human Resource Management System)": "Connecting your HRMS will let Zluri track employee data like departments, designations, reporting managers, and joining dates. Zluri supports popular HRMS like BambooHR, Personio, and Keka.",
+      "Other recommended integrations": "Having set the foundations, add other integrations by exploring the Integrations Catalog. See our curated list of essential integrations and staff picks for starters.",
+      "Sign up": "Go to the page and register for a free trial using your company email.",
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "\ud83d\udcdc Set primary sources",
+    "Description": "With the key integrations in place, you might find that multiple apps might contain the same information. . For example, both Google Workspace and BambooHR might provide employees' designations and profile pictures, but you want the latter to be the source of truth for these. To remedy this, Zluri lets you choose different sources for individual fields. You can do this by setting Primary Sources",
+    "Submodules": {
+      "Sign up": "Go to the page and register for a free trial using your company email.",
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "Sign up",
+    "Description": "Go to the page and register for a free trial using your company email.",
+    "Submodules": {
+      "Request Invite": "Enter your name, company name and phone number, then click ."
+    }
+  },
+  {
+    "module": "\ud83e\udd1d Zluri + Azure AD",
+    "Description": "Zluri lets you discover which users have Azure AD accounts, how frequently they use them, third-party apps connected to accounts, and detailed security analysis of every application. It also helps optimize spendings based on this data. You can also create and automate onboarding and offboarding workflows for team members, and automatically assign users to specific groups and/or projects depending on their profile.",
+    "Submodules": {
+      "Centralized control over application access": "makes it easier to manage multiple applications and their permissions.",
+      "Simplified Access Management": "Streamlines granting and revoking resources.",
+      "Security features": "like conditional access and role-based access control."
+    }
+  },
+  {
+    "module": "Simplified Access Management",
+    "Description": "Streamlines granting and revoking resources.",
+    "Submodules": {
+      "Centralized control over application access": "makes it easier to manage multiple applications and their permissions.",
+      "Security features": "like conditional access and role-based access control."
+    }
+  },
+  {
+    "module": "Capabilities",
+    "Description": "We support the following data points: In the future, we plan to add support for contract data.",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "Cost",
+    "Description": "There is no additional cost for using Zluri\u2019s SDK. However, there is an API rate limit of 400 requests/min. If bypassed, the API will be unavailable for one minute.",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "Error handling and logging",
+    "Description": "The SDK includes comprehensive error-handling mechanisms for managing and reporting errors during data transmission. It also supports monitoring and logging functionality to track sync information and failures.",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "How to connect",
+    "Description": "See How to Use Zluri\u2019s Integration SDK to get started.",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "Support",
+    "Description": "Got questions? Feel free to submit a ticket or contact us directly at [email protected].",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "Transaction information",
+    "Description": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency",
+    "Submodules": {
+      "User Information": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination."
+    }
+  },
+  {
+    "module": "User Information",
+    "Description": "Name, email, date of joining, role/designation, reporting manager, department, business unit, cost center, license(s), user status, last used, and date of termination.",
+    "Submodules": {
+      "Transaction information": "Transaction status, transaction date, transaction description, transaction amount, and transaction currency"
+    }
+  }
+]
