@@ -12,48 +12,6 @@ from modules.parser import Parser
 from modules.formatter import Formatter
 from modules.utils import is_valid_url, normalize_url
 
-def extract_instagram_modules():
-    """
-    Extract modules and submodules from Instagram help content.
-
-    Returns:
-        str: JSON string with extracted modules and submodules
-    """
-    print("Extracting modules from Instagram help...")
-
-    # Define the modules and submodules directly
-    modules = [
-        {
-            "module": "Account Settings",
-            "Description": "Includes features and tools for managing Instagram account preferences, privacy, and credentials.",
-            "Submodules": {
-                "Change Username": "Explains how to update your Instagram handle and display name via account settings.",
-                "Password Reset": "Instructions for resetting your password if you've forgotten it.",
-                "Privacy Controls": "Options for controlling who can see your content and interact with you."
-            }
-        },
-        {
-            "module": "Content Sharing",
-            "Description": "Covers tools and workflows for creating, editing, and publishing content on Instagram.",
-            "Submodules": {
-                "Creating Reels": "Provides instructions for recording, editing, and sharing short-form video content using Reels.",
-                "Tagging Users": "Details how to tag individuals or businesses in posts and stories for engagement.",
-                "Sharing Stories": "How to create and share temporary content that disappears after 24 hours."
-            }
-        },
-        {
-            "module": "Privacy and Security",
-            "Description": "Information about keeping your account secure and managing your privacy on Instagram.",
-            "Submodules": {
-                "Two-Factor Authentication": "How to enable additional security for your account.",
-                "Blocking Users": "Instructions for blocking unwanted interactions from specific accounts.",
-                "Report Content": "How to report inappropriate content or behavior to Instagram."
-            }
-        }
-    ]
-
-    # Return standard JSON format
-    return json.dumps(modules, indent=1)
 
 def extract_modules(url, max_pages=20, timeout=5, aggressive=True):
     """
@@ -76,10 +34,6 @@ def extract_modules(url, max_pages=20, timeout=5, aggressive=True):
 
     # Extract domain for display
     domain = urlparse(url).netloc
-
-    # Special handling for Instagram help
-    if 'help.instagram.com' in url or ('instagram.com' in url and '/help' in url):
-        return extract_instagram_modules()
 
     print(f"Extracting modules from {domain}...")
 

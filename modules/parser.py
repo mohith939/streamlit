@@ -569,7 +569,7 @@ class Parser:
                         if submodule_name and submodule_name != module_name:
                             module["Submodules"][submodule_name] = f"{pattern.capitalize()} in {module_name}"
 
-            # 6. Look for specific documentation patterns (like Instagram help)
+            # 6. Look for specific documentation patterns
             help_sections = content.find_all(['div', 'section'], class_=lambda c: c and any(x in str(c).lower() for x in ['help', 'faq', 'guide', 'tutorial', 'howto', 'how-to']))
             for section in help_sections:
                 # Find all links in the help section
